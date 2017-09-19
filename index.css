@@ -15,3 +15,13 @@ a[href*="blocket"]{
     color: greenyellow;
 
 }
+
+h1 {background-color: aqua}
+
+p {background-color: red}
+
+div p{background-color:green}
+
+div ~ p {background-color: yellow}
+
+div + p {background-color: pink}
