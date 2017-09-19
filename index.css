@@ -1,2 +1,17 @@
 #Div1 {font-size: 25px}
 .Class1 {font-size: 30px}
+
+a[href^="https"]{
+    color: yellow;
+
+}
+
+a[href$="om"]{
+      color: mediumvioletred;
+
+  }
+
+a[href*="blocket"]{
+    color: greenyellow;
+
+}
