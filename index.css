@@ -25,3 +25,11 @@ div p{background-color:green}
 div ~ p {background-color: yellow}
 
 div + p {background-color: pink}
+
+ol {
+    list-style-type: lower-alpha;
+}
+
+ol {
+    text-decoration: none;
+}
