@@ -1,0 +1,7 @@
+p:first-child:first-line{
+    color: red;
+}
+
+p:first-child::before {
+    content: "♬ ";
+}

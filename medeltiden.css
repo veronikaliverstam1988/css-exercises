@@ -1,0 +1,60 @@
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    border: solid #555555 2px;
+    border-radius: 2px;
+}
+
+/* Bottom right text */
+.bottom-right {
+    position: absolute;
+    bottom: -105px;
+    right: 8px;
+    font-size: 120px;
+}
+
+.Beskrivning {
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+
+nav ul {
+    background-color: olive;
+    text-align: center;
+    padding:5px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 10%;
+    border-top: 2px;
+    border: solid #555555 2px;
+
+
+}
+
+ul li {
+    list-style-type: none;
+    padding-bottom: 6px;
+    padding-top: 5px;
+    padding-left: 1px;
+    padding-right: 1px;
+    border-right: 1px #555555;
+    flex-direction: row;
+    display: inline;
+    margin: 20px;
+
+}
+
+section article {
+    text-align: center;
+
+}
+
+footer {
+    background-color: darkorange;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

@@ -1,0 +1,27 @@
+header {
+    background-color: purple;
+
+}
+
+nav {
+    background-color: greenyellow;
+}
+
+main {
+    background-color: blueviolet;
+    width: 70%;
+    height: 250px;
+    float: left;
+}
+
+footer {
+    background-color: orangered;
+    clear: both;
+}
+
+aside {
+    background-color: cadetblue;
+    width: 30%;
+    height: 250px;
+    float: left;
+}

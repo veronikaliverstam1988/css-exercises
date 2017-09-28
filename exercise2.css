@@ -1,0 +1,9 @@
+li{
+    border: 5px dodgerblue;
+    border-radius: 10px;
+    background-color: dodgerblue;
+    display: inline;
+    padding: 5px 5px 5px 5px;
+    color: papayawhip;
+    font-weight: bold;
+}

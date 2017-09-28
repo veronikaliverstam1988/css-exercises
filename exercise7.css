@@ -1,0 +1,11 @@
+section {
+    height: 100px;
+    background-color: deepskyblue;
+    position: relative;
+}
+
+article {
+    background-color: lightgrey;
+    position: sticky;
+    height: 20px;
+}
